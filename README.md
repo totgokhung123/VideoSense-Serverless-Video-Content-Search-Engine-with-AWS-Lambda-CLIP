@@ -1,0 +1,1 @@
+# VideoSense-Serverless-Video-Content-Search-Engine-with-AWS-Lambda-CLIP
