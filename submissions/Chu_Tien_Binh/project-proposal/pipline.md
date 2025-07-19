@@ -243,7 +243,7 @@ frame_skip = 2  # Skip frames để tăng tốc
 ## 🎉 Final Pipeline Summary
 
 **Architecture**: Serverless-first với Lambda CLIP  
-**Monthly Cost**: ~$12.43 (1000 videos, 100 searches)  
+**Monthly Cost**: ~$12.43 (1000 videos, 1000 searches)  
 **Key Innovation**: 95% cost reduction vs traditional ML endpoints  
 **Perfect for**: Internship projects, MVPs, cost-conscious deployments  
 
